@@ -1,0 +1,193 @@
+[
+    {
+        "name": "Lily Chen",
+        "action": "Spend any number of Health or Sanity, then recover an equal number of Health or Sanity.",
+        "passive_type": "misc",
+        "passive": "When you improve a skill, you may immediately improve that skill again.",
+        "health": 6,
+        "sanity": 6,
+        "lore": 2,
+        "influence": 2,
+        "observation": 2,
+        "strength": 4,
+        "will": 3,
+        "starting_location": "Shanghai, China",
+        "items_to_declare": {
+			"asset": ["Protective Amulet", "Lucky Rabbit's Foot"]
+		}
+    },
+    {
+        "name": "Norman Withers",
+        "action": "Spend 2 Clues to discard 1 Monster on a space containing a Gate.",
+        "passive_type": "misc",
+        "passive": "Once per round, you may spend 1 Sanity in place of spending 1 Clue.",
+        "health": 5,
+        "sanity": 7,
+        "lore": 3,
+        "influence": 1,
+        "observation": 3,
+        "strength": 2,
+        "will": 4,
+        "starting_location": "Arkham, United States",
+        "items_to_declare": {
+			"spell": ["Feed the Mind"]
+		}
+    },
+    {
+        "name": "Jim Culver",
+        "action": "Each investigator on your space recovers 1 Sanity.",
+        "passive_type": "combat",
+        "passive": "Investigators on your space roll 1 additional die when resolving tests during Combat Encounters.",
+        "health": 7,
+        "sanity": 5,
+        "lore": 3,
+        "influence": 3,
+        "observation": 2,
+        "strength": 2,
+        "will": 3,
+        "starting_location": "Deep South (Space 6)",
+        "items_to_declare": {
+			"spell": ["Shriveling"], 
+			"misc": ["Clue"]
+		}
+    },
+    {
+        "name": "Silas Marsh",
+        "action": "Move 1 space along a Ship path, then perform 1 additional action.",
+        "passive_type": "enviornmental",
+        "passive": "If you are on a Sea space, investigators on your space roll 1 additional die when resolving tests.",
+        "health": 8,
+        "sanity": 4,
+        "lore": 1,
+        "influence": 3,
+        "observation": 3,
+        "strength": 3,
+        "will": 3,
+        "starting_location": "Sydney, Australia",
+        "items_to_declare": {
+			"asset": ["Fishing Net"]
+		}
+    },
+    {
+        "name": "Jacqueline Fine",
+        "action": "You may trade any number of Clues with an investigator on any space.",
+        "passive_type": "misc",
+        "passive": "Once per round, when another investigator gains a non-Common Condition, you may look at the back of that card and gain 1 Clue.",
+        "health": 4,
+        "sanity": 8,
+        "lore": 4,
+        "influence": 2,
+        "observation": 3,
+        "strength": 1,
+        "will": 3,
+        "starting_location": "American Heartland (Space 5)",
+        "items_to_declare": {
+			"spell": ["Flesh Ward"],
+			"misc": ["Clue"]
+    },
+    {
+        "name": "Trish Scarborough",
+        "action": "If you do not have any Clues, gain 1 Clue.",
+        "passive_type": "misc",
+        "passive": "If an investigator on your space spends a Clue to reroll a die, he may reroll up to 2 dice instead.",
+        "health": 7,
+        "sanity": 5,
+        "lore": 1,
+        "influence": 3,
+        "observation": 4,
+        "strength": 3,
+        "will": 2,
+        "starting_location": "Central Russia (Space 16)",
+        "items_to_declare": {
+			"asset": [".45 Automatic"]
+		}
+    },
+    {
+        "name": "Akachi Onyele",
+        "action": "Look at the top 2 Gates in the Gate stack. Put 1 Gate in the top of the Gate stack and the other on the bottom.",
+        "passive_type": "misc",
+        "passive": "When you close a Gate during an Other World Encounter, you may move to any space containing a Clue or a Gate.",
+        "health": 5,
+        "sanity": 7,
+        "lore": 3,
+        "influence": 2,
+        "observation": 2,
+        "strength": 2,
+        "will": 4,
+        "starting_location": "South Africa (Space 15)",
+        "items_to_declare": {
+			"spell": ["Mists of Releh"],
+			"misc": ["Clue"]
+		}
+    },
+    {
+        "name": "Diana Stanley",
+        "action": "If there is a Cultist Monster on your space, discard all Monsters on your space or move the Cultist Monster to any other space.",
+        "passive_type": "combat",
+        "passive": "Reduce the horror of Monsters you encounter to 1.",
+        "health": 7,
+        "sanity": 5,
+        "lore": 4,
+        "influence": 2,
+        "observation": 3,
+        "strength": 3,
+        "will": 1,
+        "starting_location": "Central America (Space 7)",
+        "items_to_declare": {
+			"spell":  ["Wither"], 
+			"asset": ["Arcane Manuscripts"]
+		}
+    },
+    {
+        "name": "Mark Harrington",
+        "action": "You and 1 Monster on your space each lose 1 Health.",
+        "passive_type": "misc",
+        "passive": "You cannot become Delayed or gain a Detained Condition unless you choose to.",
+        "health": 8,
+        "sanity": 4,
+        "lore": 1,
+        "influence": 2,
+        "observation": 2,
+        "strength": 4,
+        "will": 4,
+        "starting_location": "Northern Europe (Space 14)",
+        "items_to_declare": {
+			"asset": [".38 Revolver", "Kerosene"]
+		}
+    },
+    {
+        "name": "Leo Anderson",
+        "action": "Test INFLUENCE. If you pass, gain 1 Ally Asset of your choice from the reserve or the discard pile.",
+        "passive_type": "enviornmental",
+        "passive": "If you are on a Wilderness space, investigators on your space roll 1 additional die when resolving tests.",
+        "health": 6,
+        "sanity": 6,
+        "lore": 2,
+        "influence": 2,
+        "observation": 3,
+        "strength": 3,
+        "will": 3,
+        "starting_location": "Buenos Aires, Argentina",
+        "items_to_declare": {
+			"asset": ["Hired Muscle"]
+		}
+    },
+    {
+        "name": "Lola Hayes",
+        "action": "Spend any number of Improvement tokens, then improve 1 skill of your choice for each token spent (a \"+2\" token counts as 2 tokens).",
+        "passive_type": "misc",
+        "passive": "Once per round, an investigator on your space may roll 1 additional die when resolving a test.",
+        "health": 5,
+        "sanity": 7,
+        "lore": 2,
+        "influence": 4,
+        "observation": 2,
+        "strength": 2,
+        "will": 3,
+        "starting_location": "Tokyo, Japan",
+        "items_to_declare": {
+			"asset": [".18 Derringer"],
+			"misc": ["Improve 1 skill of your choice"]
+		}
+    }
+]

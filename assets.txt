@@ -1,0 +1,184 @@
+name : Holy Water
+trait : Item - Magical
+effect type : combat
+effect : You may discard this card to gain +5 WILL and STRENGTH during a Combat Encounter.
+action : You may discard this card to choose an investigator on your space. That investigator gains a Blessed Condition.
+buff : 5 , 5
+buff type : COMBAT WILL , COMBAT STRENGTH
+
+name : Puzzle Box
+trait : Trinket
+effect type : rest
+effect : When you perform a Rest action, you may attempt to open the puzzle box (OBSERVATION -2) If you pass, you may discard this card to gain 1 Artifact.
+
+name : Arcane Scholar
+trait : Ally
+effect type : lore
+effect : Gain +1 LORE. You may reroll 1 die when resolving a LORE test.
+buff : 1
+buff type : LORE
+
+name : Fishing Net
+trait : Item
+effect type : combat
+effect : You may reroll 1 die when resolving a STRENGTH test during a Combat Encounter. Reduce the damage of Monsters you encounter by 1 to a minimum of 1.
+
+name : Double-barreled Shotgun
+trait : Item - Weapon
+effect type : combat
+effect : Gain +4 STRENGTH during Combat Encounters. Each 6 you roll when resolving a STRENGTH test during a Combat Encounter counts as 2 successes.
+buff : 4
+buff type : COMBAT STRENGTH
+
+name : .18 Derringer
+trait : Trinket - Weapon
+effect type : combat
+effect : You may add 1 to the result of 1 die when resolving a STRENGTH test during Combat Encounters.
+
+name : Carbine Rifle
+trait : Item - Weapon
+effect type : combat
+effect : Once per round, you may gain +5 STRENGTH during a Combat Encounter
+buff : 5
+buff type : COMBAT STRENGHT
+
+name : Dynamite
+trait : Item - Weapon
+effect type : combat
+action : You may discard this card to cause each Monster on your space to lose 3 Health.
+
+name : Bandages
+trait : Item
+effect type : healing
+effect : You may discard this card to prevent an investigator on your space from losing up to 2 Health.
+
+name : Kerosene
+trait : Item
+effect type : combat
+effect : You may discard this card to gain +5 STRENGTH during a Combat Encounter
+buff : 5
+buff type : COMBAT STRENGTH
+
+name : Lucky Cigarette Case
+trait : Trinket
+effect type : misc
+effect : Once per round, you may add 1 to the result of 1 die when resolving a test.
+
+name : Fine Clothes
+trait : Item
+effect type : acquire assets
+effect : Each 6 you roll when performing an Acquire Assets action counts as 2 successes.
+
+name : Cat Burglar
+trait : Ally
+action : Roll 1 die. On a 5 or 6, gain 1 Item or Trinket Asset from the reserve. On a 1, discard this card.
+
+name : Arcane Manuscripts
+trait : Item - Tome
+effect type : spell
+effect : Gain +1 LORE when resolving Spell effects.
+buff : 1
+buff type : SPELL
+
+name : Arcane Tome
+trait : Item - Tome
+effect type : spell , rest
+effect : Gain +2 LORE when resolving Spell effects. When you perform a Rest action, you may test LORE. If you pass, gain 1 Spell.
+buff : 2
+buff :type SPELL
+
+name : King James Bible
+trait : Item - Tome
+effect type : combat , rest
+effect : You may reroll 1 die when resolving a WILL test during a Combat Encounter. When you perform a Rest action, recover 1 additional Sanity.
+
+name : Holy Cross
+trait : Item
+effect type : combat
+effect : Gain +2 WILL during Combat Encounters.
+buff : 2
+buff type : COMBAT WILL
+
+name : Private Investigator
+trait : Ally
+effect type : observation
+effect : Gain +1 OBSERVATION. You may reroll 1 die when resolving a OBSERVATION test.
+buff : 1
+buff type : OBSERVATION
+
+name : Spirit Dagger
+trait : Item - Magical Weapon
+effect type : combat
+effect : Gain +1 WILL and +2 STRENGTH during Combat Encounters
+buff : +1 WILL | +2 STRENGTH
+buff type : 1 | 2
+
+name : .38 Revolver
+trait : Item - Weapon
+effect type : combat
+effect : Gain +2 STRENGTH during Combat Encounters.
+buff : +2 STRENGTH
+
+name : Pocket Watch
+trait : Trinket
+effect type : misc
+effect : You cannot become Delayed unless you choose to.
+
+name : Bull Whip
+trait : Item - Weapon
+effect type : combat
+effect : Gain +1 STRENGTH during Combat Encounters. You may reroll 1 die when resolving a STRENGTH test during a Combat Encounter.
+buff : +1 STRENGTH
+
+name : Whiskey
+trait : Item
+effect type : healing
+effect : You may discard this card to prevent an investigator on your space from losing up to 2 sanity.
+
+name : Axe
+trait : Item - Weapon
+effect type : combat
+effect : Gain +2 STRENGTH during Combat Encounters. You may spend 2 Sanity to reroll any number of dice when resolving a STRENGTH test during a Combat Encounter.
+buff : +2 STRENGTH
+
+name : Lucky Rabbit's Foot
+trait : Trinket
+effect type : misc
+effect : Once per round, you may reroll 1 die when resolving a test.
+
+name : Hired Muscle
+trait : Ally
+effect type : strength
+effect : Gain +1 STRENGTH. You may reroll 1 die when resolving a STRENGTH test.
+
+name : Lodge Researcher
+trait : Ally
+effect type : combat , healing
+effect : If you defeat a Monster during a Combat Encounter, recover 1 Sanity and gain 1 Clue.
+
+name : Vatican Missionary
+trait : Ally
+effect type : lore
+effect : Gain +1 WILL. You may reroll 1 die when resolving a WILL test.
+
+name : Urban Guide
+trait : Ally
+effect type : enviornmental
+effect : If you are on a City space, investigators on your space roll 1 additional die when resolving tests except when resolving Other World Encounters.
+
+name : Witch Doctor
+trait : Ally
+effect type : rest
+effect : Investigators on your space may recover 1 additional Health or discard a Cursed Condition when performing a Rest action.
+
+name : .45 Automatic
+trait : Item - Weapon
+effect type : combat
+effect : Gain +3 STRENGTH during Combat Encounters.
+buff : +3 STRENGTH
+
+name : Protective Amulet
+trait : Item
+effect type : combat
+effect : Gain +1 WILL during Combat Encounters.
+buff : +1 WILL

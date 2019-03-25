@@ -1,0 +1,167 @@
+name : Lily Chen
+action : Spend any number of Health or Sanity, then recover an equal number of Health or Sanity.
+passive type : misc
+passive : When you improve a skill, you may immediately improve that skill again.
+health : 6
+sanity : 6
+lore : 2
+influence : 2
+observation : 2
+strength : 4
+will : 3
+starting location : Shanghai, China
+items to declare : Asset - Protective Amulet , Asset - Lucky Rabbit's Foot
+
+name : Norman Withers
+action : Spend 2 Clues to discard 1 Monster on a space containing a Gate.
+passive type : misc
+passive : Once per round, you may spend 1 Sanity in place of spending 1 Clue.
+health : 5
+sanity : 7
+lore : 3
+influence : 1
+observation : 3
+strength : 2
+will : 4
+starting location : Arkham, United States
+items to declare : Spell - Feed the Mind
+
+name : Jim Culver
+action : Each investigator on your space recovers 1 Sanity.
+passive type : combat
+passive : Investigators on your space roll 1 additional die when resolving tests during Combat Encounters.
+health : 7
+sanity : 5
+lore : 3
+influence : 3
+observation : 2
+strength : 2
+will : 3
+starting location : Deep South (Space 6)
+items to declare : Spell - Shriveling , Clue
+
+name : Silas Marsh
+action : Move 1 space along a Ship path, then perform 1 additional action.
+passive type : enviornmental
+passive : If you are on a Sea space, investigators on your space roll 1 additional die when resolving tests.
+health : 8
+sanity : 4
+lore : 1
+influence : 3
+observation : 3
+strength : 3
+will : 3
+starting location : Sydney, Australia
+items to declare : Asset - Fishing Net
+
+name : Jacqueline Fine
+action : You may trade any number of Clues with an investigator on any space.
+passive type : misc
+passive : Once per round, when another investigator gains a non-Common Condition, you may look at the back of that card and gain 1 Clue.
+health : 4
+sanity : 8
+lore : 4
+influence : 2
+observation : 3
+strength : 1
+will : 3
+starting location : American Heartland (Space 5)
+items to declare : Spell - Flesh Ward , Clue
+
+name : Trish Scarborough
+action : If you do not have any Clues, gain 1 Clue.
+passive type : misc
+passive : If an investigator on your space spends a Clue to reroll a die, he may reroll up to 2 dice instead.
+health : 7
+sanity : 5
+lore : 1
+influence : 3
+observation : 4
+strength : 3
+will : 2
+starting location : Central Russia (Space 16)
+items to declare : Asset - .45 Automatic
+
+name : Akachi Onyele
+action : Look at the top 2 Gates in the Gate stack. Put 1 Gate in the top of the Gate stack and the other on the bottom.
+passive type : misc
+passive : When you close a Gate during an Other World Encounter, you may move to any space containing a Clue or a Gate.
+health : 5
+sanity : 7
+lore : 3
+influence : 2
+observation : 2
+strength : 2
+will : 4
+starting location : South Africa (Space 15)
+items to declare : Spell - Mists of Releh , Clue
+
+name : Diana Stanley
+action : If there is a Cultist Monster on your space, discard all Monsters on your space or move the Cultist Monster to any other space.
+passive type : combat
+passive : Reduce the horror of Monsters you encounter to 1.
+health : 7
+sanity : 5
+lore : 4
+influence : 2
+observation : 3
+strength : 3
+will : 1
+starting location : Central America (Space 7)
+items to declare : Spell - Wither , Asset - Arcane Manuscripts
+
+name : Mark Harrington
+action : You and 1 Monster on your space each lose 1 Health.
+passive type : misc
+passive : You cannot become Delayed or gain a Detained Condition unless you choose to.
+health : 8
+sanity : 4
+lore : 1
+influence : 2
+observation : 2
+strength : 4
+will : 4
+starting location : Northern Europe (Space 14)
+items to declare : Asset - .38 Revolver , Asset - Kerosene
+
+name : Leo Anderson
+action : Test INFLUENCE. If you pass, gain 1 Ally Asset of your choice from the reserve or the discard pile.
+passive type : enviornmental
+passive : If you are on a Wilderness space, investigators on your space roll 1 additional die when resolving tests.
+health : 6
+sanity : 6
+lore : 2
+influence : 2
+observation : 3
+strength : 3
+will : 3
+starting location : Buenos Aires, Argentina
+items to declare : Asset - Hired Muscle
+
+name : Lola Hayes
+action : Spend any number of Improvement tokens, then improve 1 skill of your choice for each token spent (a "+2" token counts as 2 tokens).
+passive type : misc
+passive : Once per round, an investigator on your space may roll 1 additional die when resolving a test.
+health : 5
+sanity : 7
+lore : 2
+influence : 4
+observation : 2
+strength : 2
+will : 3
+starting location : Tokyo, Japan
+items to declare : Asset - .18 Derringer , Improve 1 skill of your choice
+
+name : Charlie Kane
+action : Another investigator of your choice my immediately perform 1 additional action.
+passive type : acquire assets
+passive : When you perform an Acquire Assets action, you may allow other investigators to gain any cards you purchase.
+health : 4
+sanity : 8
+lore : 2
+influence : 4
+observation : 3
+strength : 2
+will : 2
+starting location : San Francisco, United States
+items to declare : Asset - Personal Assistant
